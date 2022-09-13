@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vitor Augusto Jacques
 
 - Hoje trabalho como gerente dos Correios no interior de Minas Gerais, porém estou buscando uma migração de carreira ... Quero realizar o meu sonho de trabalhar na área de analises de dados e atuar como cientista de dados.
-- Atualmente tenho estudado muito Python, SQL, Estatística além de estarcursando o Data Sciencie Degree da Let's Code.
+- Atualmente tenho estudado muito Python, SQL, Estatística além de estar cursando o Data Sciencie Degree da Let's Code.
 
 <div>
  <a href="https://www.linkedin.com/in/vitor-jacques-655686222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
